@@ -1,0 +1,57 @@
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.csproj.AssemblyReference.cache
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\BaseDatos.xaml.g.cs
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\Configuracion.xaml.g.cs
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\Hoy.xaml.g.cs
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\Objetivos.xaml.g.cs
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.AssemblyInfoInputs.cache
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.AssemblyInfo.cs
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.csproj.CoreCompileInputs.cache
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.dll
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\refint\Navegacion.dll
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.pdb
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\bin\Debug\netstandard2.0\Navegacion.deps.json
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\bin\Debug\netstandard2.0\Navegacion.dll
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\bin\Debug\netstandard2.0\Navegacion.pdb
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion\obj\Debug\netstandard2.0\ref\Navegacion.dll
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\bin\Debug\netstandard2.0\Navegacion.deps.json
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\bin\Debug\netstandard2.0\Navegacion.dll
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\bin\Debug\netstandard2.0\Navegacion.pdb
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.csproj.AssemblyReference.cache
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\BaseDatos.xaml.g.cs
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\Configuracion.xaml.g.cs
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\Hoy.xaml.g.cs
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\Objetivos.xaml.g.cs
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.AssemblyInfoInputs.cache
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.AssemblyInfo.cs
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.csproj.CoreCompileInputs.cache
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.dll
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\refint\Navegacion.dll
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.pdb
+C:\Users\dofus\OneDrive\Escritorio\Menu\Navegacion\Navegacion\obj\Debug\netstandard2.0\ref\Navegacion.dll
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\bin\Debug\netstandard2.0\Navegacion.deps.json
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\bin\Debug\netstandard2.0\Navegacion.dll
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\bin\Debug\netstandard2.0\Navegacion.pdb
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.csproj.AssemblyReference.cache
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.AssemblyInfoInputs.cache
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.AssemblyInfo.cs
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.csproj.CoreCompileInputs.cache
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.dll
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\refint\Navegacion.dll
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\Navegacion.pdb
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\ref\Navegacion.dll
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\Generos.xaml.g.cs
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\Peliculas.xaml.g.cs
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\Series.xaml.g.cs
+C:\Users\KheldeLP\Desktop\Navegacion\Navegacion\obj\Debug\netstandard2.0\Usuarios.xaml.g.cs

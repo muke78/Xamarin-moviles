@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"            
+            xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            
+            Title="Inicio"
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core" xmlns:local1="clr-namespace:Navegacion"
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            BarBackgroundColor="#444D52"
+            BarTextColor="White"
+            SelectedTabColor="#e67e22"
+            UnselectedTabColor="White"
+            x:Class="Navegacion.MainPage">
+    
+    <local1:Hoy IconImageSource="bd1" BackgroundColor="White" NavigationPage.HasNavigationBar="False" />
+    <local1:BaseDatos IconImageSource="bd2" BackgroundColor="White" NavigationPage.HasNavigationBar="False" />
+    <local1:Objetivos IconImageSource="bd3" BackgroundColor="White" NavigationPage.HasNavigationBar="False" />
+    <local1:Configuracion IconImageSource="bd4" BackgroundColor="White" NavigationPage.HasNavigationBar="False" />
+    
+</TabbedPage>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Navegacion.Hoy">
+
+    <StackLayout>
+        <Frame BackgroundColor="#e67e22" Padding="24" CornerRadius="0">
+            <Label Text="Usuarios" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Entry x:Name="txtid" IsVisible="False" PlaceholderColor="White" TextColor="White" FontSize="Large"/>
+        <Entry x:Name="txtNombre" Placeholder="Usuario"/>
+        <Entry x:Name="txtApellidopaterno" Placeholder="Apellido paterno"/>
+        <Entry x:Name="txtApellidomaterno" Placeholder="Apellido materno"/>
+        <Entry x:Name="txtNumero" Placeholder="Numero"/>
+        <Entry x:Name="txtDireccion" Placeholder="Direccion"/>
+        <Button x:Name="btnRegistrar" Text="Registrar" Clicked="btnRegistrar_Clicked" Background="#e67e22" CornerRadius="30"/>
+
+        <StackLayout Orientation="Horizontal" Margin="50,0,0,0">
+            <Button Text="Borrar" IsVisible="false"  x:Name="btnBorrar" Clicked="btnBorrar_Clicked" BackgroundColor="#444D52" CornerRadius="20" FontSize="Large" TextColor="White" Margin="0,5,50,10"/>
+
+            <Button Text="Modificar" IsVisible="false"  x:Name="BtnModificar" Clicked="BtnModificar_Clicked" BackgroundColor="#444D52" CornerRadius="20" FontSize="Large" TextColor="White" Margin="0,5,0,10"/>
+        </StackLayout>
+
+        <ListView x:Name="lstUsuarios" ItemSelected="lstUsuarios_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="{Binding matricula}" Grid.Row="0" Grid.Column="0"/>
+                            <Label Text="{Binding nombre}" Grid.Row="0" Grid.Column="1"/>
+                            <Label Text="{Binding apellidopaterno}" Grid.Row="0" Grid.Column="2"/>
+                            <Label Text="{Binding apellidomaterno}" Grid.Row="0" Grid.Column="3"/>
+                            <Label Text="{Binding numero}" Grid.Row="1" Grid.Column="2"/>
+                            <Label Text="{Binding direccion}" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="4"/>
+
+
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </StackLayout>
+</ContentPage>

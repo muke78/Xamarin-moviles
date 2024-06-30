@@ -1,0 +1,13 @@
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion.iOS\obj\iPhone\Debug\optimized\
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion.iOS\obj\iPhone\Debug\Navegacion.iOS.csproj.AssemblyReference.cache
+C:\Users\josej\Desktop\Programacion Movil\Navegacion\Navegacion.iOS\obj\iPhone\Debug\Navegacion.iOS.csproj.CoreCompileInputs.cache

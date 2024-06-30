@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Navegacion.Configuracion">
+
+    <StackLayout >
+        <Frame BackgroundColor="#e67e22" Padding="24" CornerRadius="0">
+            <Label Text="Generos" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Entry x:Name="txtid" IsVisible="False" PlaceholderColor="White" TextColor="White" FontSize="Large"/>
+        <Entry x:Name="txtGenero" Placeholder="Ingrese un genero"/>
+        <Button x:Name="btnRegistrar" Text="Registrar" Clicked="btnRegistrar_Clicked" Background="#e67e22" CornerRadius="30"/>
+
+        <StackLayout Orientation="Horizontal" Margin="50,0,0,0">
+            <Button Text="Borrar" IsVisible="false"  x:Name="btnBorrar" Clicked="btnBorrar_Clicked" BackgroundColor="#444D52" CornerRadius="20" FontSize="Large" TextColor="White" Margin="0,5,50,10"/>
+
+            <Button Text="Modificar" IsVisible="false"  x:Name="BtnModificar" Clicked="BtnModificar_Clicked" BackgroundColor="#444D52" CornerRadius="20" FontSize="Large" TextColor="White" Margin="0,5,0,10"/>
+        </StackLayout>
+
+        <ListView x:Name="lstGeneros" ItemSelected="lstGeneros_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="{Binding matricula}" Grid.Row="0" Grid.Column="0"/>
+                            <Label Text="{Binding genero}" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="4"/>
+                    
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </StackLayout>
+</ContentPage>
