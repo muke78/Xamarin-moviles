@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SQLite.Articulo">
+    <ContentPage.Content>
+        <Grid>
+            <Image Source="fondo.jpg" Aspect="AspectFill" />
+            <BoxView Color="Black" Opacity="0.8" />
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <StackLayout Grid.Row="1" Padding="30,0" Margin="0,10,0,10" >
+
+                      <Frame BackgroundColor="#000" Padding="4" CornerRadius="0">
+                        <Label Text="ARTICULOS" TextColor="Red" FontSize="45" HorizontalTextAlignment="Center"/>
+                    </Frame>
+                    <Entry x:Name="txtid" IsVisible="False" PlaceholderColor="White" TextColor="White" FontSize="Large"/>
+
+                    <Entry Placeholder="Titulo" x:Name="txtTitulo" PlaceholderColor="White" TextColor="White" FontSize="Large"/>
+
+                    <Entry Placeholder="Usuario" x:Name="txtUsuario" PlaceholderColor="#040FD9" TextColor="#040FD9" FontSize="Large"/>
+
+                    <Entry Placeholder="Fecha" x:Name="txtFecha" PlaceholderColor="White" TextColor="White" FontSize="Large"/>
+
+                    <Entry Placeholder="Informacion" x:Name="txtInformacion" PlaceholderColor="White" TextColor="White" FontSize="Large"/>
+
+                    <Button Text="Registrar"  x:Name="btnRegistrar" Clicked="BtnRegistrar_Clicked" BackgroundColor="Red" CornerRadius="20" FontSize="Large" TextColor="White" Margin="0,5,0,10"/>
+
+                    <StackLayout Orientation="Horizontal" Margin="50,0,0,0">
+                        <Button Text="Borrar" IsVisible="false"  x:Name="btnBorrar" Clicked="btnBorrar_Clicked" BackgroundColor="Red" CornerRadius="20" FontSize="Large" TextColor="White" Margin="0,5,50,10"/>
+
+                        <Button Text="Modificar" IsVisible="false"  x:Name="BtnModificar" Clicked="BtnModificar_Clicked" BackgroundColor="Red" CornerRadius="20" FontSize="Large" TextColor="White" Margin="0,5,0,10"/>
+                    </StackLayout>
+
+                    <ListView x:Name="lstArticulos" ItemSelected="lstArticulo_ItemSelected">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <Grid>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="Auto" />
+                                            <RowDefinition Height="Auto" />
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="18" />
+                                            <ColumnDefinition Width="*" />
+                                            <ColumnDefinition Width="*" />
+                                            <ColumnDefinition Width="*" />
+                                            <ColumnDefinition Width="*" />
+                                        </Grid.ColumnDefinitions>
+                                        <Label Text="{Binding idarticulo}" TextColor="Red" Grid.Row="0" Grid.Column="0"/>
+                                        <Label Text="{Binding titulo}" TextColor="White" Grid.Row="0" Grid.Column="1"/>
+                                        <Label Text="{Binding usuario}" TextColor="#040FD9" Grid.Row="0" Grid.Column="2"/>
+                                        <Label Text="{Binding fecha}" TextColor="White" Grid.Row="0" Grid.Column="3"/>
+                                        <Label Text="{Binding informacion}" TextColor="White"  Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="5"/>
+                                    </Grid>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+
+                </StackLayout>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

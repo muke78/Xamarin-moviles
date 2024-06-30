@@ -1,0 +1,36 @@
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\bin\Debug\netstandard2.0\SQLite.deps.json
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\bin\Debug\netstandard2.0\SQLite.dll
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\bin\Debug\netstandard2.0\SQLite.pdb
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.csproj.AssemblyReference.cache
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.AssemblyInfoInputs.cache
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.AssemblyInfo.cs
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.csproj.CoreCompileInputs.cache
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.dll
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\obj\Debug\netstandard2.0\refint\SQLite.dll
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.pdb
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\obj\Debug\netstandard2.0\ref\SQLite.dll
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\obj\Debug\netstandard2.0\Articulo.xaml.g.cs
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\obj\Debug\netstandard2.0\Usuarios.xaml.g.cs
+C:\Users\josej\Documents\UPVM trabajos\Programacion Movil\SQLite\SQLite\obj\Debug\netstandard2.0\Productos.xaml.g.cs
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\bin\Debug\netstandard2.0\SQLite.deps.json
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\bin\Debug\netstandard2.0\SQLite.dll
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\bin\Debug\netstandard2.0\SQLite.pdb
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.csproj.AssemblyReference.cache
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\obj\Debug\netstandard2.0\Articulo.xaml.g.cs
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\obj\Debug\netstandard2.0\Productos.xaml.g.cs
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\obj\Debug\netstandard2.0\Usuarios.xaml.g.cs
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.AssemblyInfoInputs.cache
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.AssemblyInfo.cs
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.csproj.CoreCompileInputs.cache
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.dll
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\obj\Debug\netstandard2.0\refint\SQLite.dll
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\obj\Debug\netstandard2.0\SQLite.pdb
+C:\Users\KheldeLP\Desktop\SQLite\SQLite\obj\Debug\netstandard2.0\ref\SQLite.dll

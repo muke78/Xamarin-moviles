@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SQLite.Usuarios">
+
+    <ContentPage.Content>
+        <Grid>
+            <Image Source="fondo.jpg" Aspect="AspectFill" />
+            <BoxView Color="Black" Opacity="0.8" />
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <StackLayout Grid.Row="1" Padding="30,0" Margin="0,10,0,10" >
+
+                    <Frame BackgroundColor="#000" Padding="4" CornerRadius="0">
+                        <Label Text="USUARIOS" TextColor="#040FD9" FontSize="45" HorizontalTextAlignment="Center"/>
+                    </Frame>
+
+                    <Entry x:Name="txtmatricula" IsVisible="False" PlaceholderColor="White" TextColor="White" FontSize="Large"/>
+
+                    <Entry Placeholder="Nombre" x:Name="txtNombre" PlaceholderColor="White" TextColor="White" FontSize="Large"/>
+
+                    <Entry Placeholder="Apellido Paterno" x:Name="txtApellidoPaterno" PlaceholderColor="White" TextColor="White" FontSize="Large"/>
+
+                    <Entry Placeholder="Apellido Materno" x:Name="txtApellidoMaterno" PlaceholderColor="White" TextColor="White" FontSize="Large"/>
+
+                    <Entry Placeholder="Correo-e" x:Name="txtCorreo" PlaceholderColor="White" TextColor="White" FontSize="Large"/>
+
+                    <Button Text="Registrar"  x:Name="btnRegistrar" Clicked="BtnRegistrar_Clicked" BackgroundColor="#040FD9" CornerRadius="20" FontSize="Large" TextColor="White" Margin="0,5,0,10"/>
+
+                    <StackLayout Orientation="Horizontal" Margin="50,0,0,0">
+                        <Button Text="Borrar" IsVisible="false"  x:Name="btnBorrar" Clicked="btnBorrar_Clicked" BackgroundColor="#040FD9" CornerRadius="20" FontSize="Large" TextColor="White" Margin="0,5,50,10"/>
+
+                        <Button Text="Modificar" IsVisible="false"  x:Name="BtnModificar" Clicked="BtnModificar_Clicked" BackgroundColor="#040FD9" CornerRadius="20" FontSize="Large" TextColor="White" Margin="0,5,0,10"/>
+                    </StackLayout>
+
+                    <ListView x:Name="lstAlumnos" ItemSelected="lstAlumnos_ItemSelected">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <Grid>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="Auto" />
+                                            <RowDefinition Height="Auto" />
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="18" />
+                                            <ColumnDefinition Width="*" />
+                                            <ColumnDefinition Width="*" />
+                                            <ColumnDefinition Width="*" />
+                                            <ColumnDefinition Width="*" />
+                                        </Grid.ColumnDefinitions>
+                                        <Label Text="{Binding matricula}" TextColor="#040FD9" Grid.Row="0" Grid.Column="0"/>
+                                        <Label Text="{Binding nombre}" TextColor="White" Grid.Row="0" Grid.Column="1"/>
+                                        <Label Text="{Binding apellidoPaterno}" TextColor="White" Grid.Row="0" Grid.Column="2"/>
+                                        <Label Text="{Binding apellidoMaterno}" TextColor="White" Grid.Row="0" Grid.Column="3"/>
+                                        <Label Text="{Binding correo}" TextColor="White"  Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3"/>
+                                    </Grid>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+
+                </StackLayout>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+
+</ContentPage>
